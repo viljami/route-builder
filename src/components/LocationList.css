@@ -1,0 +1,11 @@
+.location-list {
+    margin: 50px 20px 20px 0;
+    padding: 0;
+    overflow-y: scroll;
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+    top: 100px;
+    right: 0;
+    box-sizing: border-box;
+}
