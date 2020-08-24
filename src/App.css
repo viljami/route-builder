@@ -1,0 +1,19 @@
+.App {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+}
+
+.App menu {
+  margin: 0;
+  padding: 0 0 0 10px;
+  width: 350px;
+  height: 100%;
+  background-color: #383838;
+  color: #fff;
+  position: relative;
+}
