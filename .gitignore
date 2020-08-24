@@ -8,8 +8,8 @@
 # testing
 /coverage
 
-# production (enabled for docs branch)
-# /build
+# production
+/build
 
 # misc
 .DS_Store
