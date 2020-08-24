@@ -1,6 +1,12 @@
 # Route Builder
 
-[Play here with the application](https://viljami.github.io/react-route-builder)
+[Play here with the application](https://viljami.github.io/route-builder)
+
+Highlights of building the demo:
+
+* Drag and drop a list item to the same list to reorder (which is funnily different than to a different list)
+* GPX file format
+* Leaflet map (I selected a service I'm new with.)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
